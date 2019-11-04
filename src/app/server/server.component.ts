@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ServerComponent implements OnInit {
   username = 'my-name';
+  displayContent = false;
+  clicks = [];
   constructor() {
   }
 
@@ -17,5 +19,10 @@ export class ServerComponent implements OnInit {
 
   resetUserName() {
   this.username="";
+  }
+
+  onButtonClick() {
+    this.clicks.push(this.clicks.length+1);
+    this.displayContent= this.displayContent === false ? true : false ;
   }
 }
