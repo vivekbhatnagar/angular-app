@@ -1,5 +1,5 @@
-# AngularApp
-
+<a href="https://stackoverflow.com/users/2065799/vivek"><img align="right" src="https://stackoverflow.com/users/flair/2065799.png?theme=dark" width="208" height="58" alt="profile for Vivek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vivek at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+# AngularApp 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
 ## Development server
